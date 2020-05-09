@@ -15,8 +15,8 @@ const main = async () => {
     const posts =
         [
             {
-                "title": "Champagne Fail",
-                "imgURL": "https://i.imgur.com/GcwJLx8.mp4",
+                "title": "Sir Cumference",
+                "imgURL": "https://i.imgur.com/2b9aaT7.jpg",
                 "description": lorem,
                 "reaction": haha,
             },
